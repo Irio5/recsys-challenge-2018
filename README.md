@@ -1,4 +1,4 @@
-# ACM RecSys Challenge 2018
+# ACM RecSys Challenge 2024
 
 <p align="center">
   <img width="100%" src="https://i.imgur.com/tm9mSuM.png" alt="Recommender System 2018 Challenge Polimi" />
